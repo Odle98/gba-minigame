@@ -1,7 +1,7 @@
 # gba-minigame
 A small example of a GBA game with a ball moving across the screen using the directional cross pad 
 
-![Image of the game](https://github.com/Odle98/gba-minigame/blob/adding-files/gba-minigame-screenshot.png)
+![Image of the game](https://github.com/Odle98/gba-minigame/blob/master/gba-minigame-screenshot.png)
 
 ## How to run the samples
 1. Install DevkitPro pacman from [official website](http://i1160.photobucket.com/albums/q496/Odle098/gba-minigame-screenshot_zps8mlwvbhc.png)
