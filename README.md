@@ -4,7 +4,7 @@ A small example of a GBA game with a ball moving across the screen using the dir
 ![Image of Yaktocat](https://imgur.com/a/GeSw3Jl)
 
 ## How to run the samples
-1. Install DevkitPro pacman from [official website]: https://devkitpro.org/wiki/devkitPro_pacman
+1. Install DevkitPro pacman from [official website](http://i1160.photobucket.com/albums/q496/Odle098/gba-minigame-screenshot_zps8mlwvbhc.png)
 2. Install GBA dev tools: `sudo pacman -S gba-dev` (install all)
 3. Add devkitArm/bin path to your PATH enviroment variable, in my case I added `/opt/devkitpro/devkitARM/bin`
 4. Run `./compile.sh` in the folder directory, then open .gba file with you favorite emulator
